@@ -1,7 +1,7 @@
 name: linq
 favicon: null
-layout_spectrum: 0.5399628493469208
-typography_spectrum: 0.7452052200678736
+layout_spectrum: 0.78807
+typography_spectrum: 0.18339
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.07103488501161337
+    - '#000000'
+    - '#fcfcfe'
+    - '#b6d1da'
+    - '#6c9aa7'
+    - '#814118'
+  brandStrength: 0.125
   lightness: 0.13281429279595613
   saturation: 0.9026303067803383
   rhythmicContrast: 0.5832053178455681
