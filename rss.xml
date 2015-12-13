@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[linq]]></title>
         <description><![CDATA[linq]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/linq/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Dec 2015 17:49:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Dec 2015 17:54:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/linq/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/linq/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">660a87d3-0135-4749-9946-fcd0294f3276</guid>
+            <pubDate>Sun, 13 Dec 2015 17:54:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello world]]></title>
             <description><![CDATA[<h1>Hello world</h1>]]></description>
-            <link>undefinedhello-world/index.html</link>
+            <link>https://thegrid.ai/linq/hello-world/index.html</link>
             <guid isPermaLink="false">1d6fda2c-619f-4ae3-9364-aff07972d48e</guid>
             <pubDate>Sun, 13 Dec 2015 17:49:26 GMT</pubDate>
         </item>
